@@ -6,8 +6,6 @@ module.exports = {
       'vuetify'
     ],
     outputDir: 'dist',
-    publicPath: process.env.NODE_ENV === 'production'
-      ? '/Eileen_button/'
-      : '/'
+    publicPath:'./'
 
 }
