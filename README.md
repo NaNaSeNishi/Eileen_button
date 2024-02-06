@@ -42,15 +42,16 @@
 
 ### 部署本地开发环境
 - 配置好node环境，clone项目到本地。
-- 安装：
+
+- install dependencies：
   ```
   npm install
   ```
-- 运行：
+- serve with hot reload at localhost:8080：
   ```
   npm run serve
   ```
-- 打包
+- build for production with minification
   ```
   npm run build
   ```
